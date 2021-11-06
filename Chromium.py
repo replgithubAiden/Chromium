@@ -7,4 +7,4 @@ print("Launching")
 Chromium = Browser()
 print("Finalizing")
 time.sleep(1)
-print("Finishe
+print("Finished")
